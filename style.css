@@ -1,0 +1,8 @@
+@charaset "UTF-8";
+
+/* 基本色 */
+:root {
+  --main-color: #7570B3
+  --accent-color: #C09F8B
+  --dark-color: #1E1866
+}
